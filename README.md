@@ -2,27 +2,7 @@ Hello! Im Wilson Woodyard
 
 I'm currently looking for a role as a Jr. iOS Developer. I have experience with:
 
-Swift
-
-SQL
-
-C#
-
-XCode
-
-UIKit
-
-SwiftUI
-
-CoreData
-
-Firebase
-
-CocoaPods
-
-App Store Connect
-
-TestFlight
+Swift, SQL, C#, XCode, UIKit, SwiftUI, CoreData, Firebase, CocoaPods, App Store Connect and TestFlight
 
 Below are apps I have worked on as apart of my iOS Bootcamp. 
 I am currently building an original app that is in beta and is avaiable via TestFlight, Please email me at for access.
