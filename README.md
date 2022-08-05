@@ -5,8 +5,9 @@ I'm currently looking for a role as a Jr. iOS Developer. I have experience with 
 Please visit my repositories to see a few of my completed apps.
 
 
+![Apple iPhone 11 Pro Max Screenshot 0](https://user-images.githubusercontent.com/98561460/183103830-3d512e5c-0009-47ff-bc98-be577afd32f3.png)![Apple iPhone 11 Pro Max Screenshot 1](https://user-images.githubusercontent.com/98561460/183103835-45897bc4-2f41-4009-bc8d-37887ede0cd1.png)![Apple iPhone 11 Pro Max Screenshot 2](https://user-images.githubusercontent.com/98561460/183103837-437c29fc-41a1-444e-b9a5-c062b5767d7d.png)![Apple iPhone 11 Pro Max Screenshot 3](https://user-images.githubusercontent.com/98561460/183103840-7436e834-e444-48cc-97a0-ef58e64391a4.png)
 
-![Apple iPhone 11 Pro Max Screenshot 0](https://user-images.githubusercontent.com/98561460/183103569-78b68e7d-748d-487b-9044-4d303eece9cc.png)![Apple iPhone 11 Pro Max Screenshot 1](https://user-images.githubusercontent.com/98561460/183103576-8c8e8aae-3497-4815-99f2-f402c582f7bc.png)![Apple iPhone 11 Pro Max Screenshot 2](https://user-images.githubusercontent.com/98561460/183103578-918170e0-7777-44bc-a7b6-8af3cc9261c4.png)![Apple iPhone 11 Pro Max Screenshot 3](https://user-images.githubusercontent.com/98561460/183103581-5ae2c8fb-47b2-4ae7-b5cc-cbf2541153e9.png)
+
 
 
 
